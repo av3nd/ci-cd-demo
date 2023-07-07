@@ -1,4 +1,4 @@
-name: CI/CD
+name: Integration Pipeline
 
 on:
     push:
